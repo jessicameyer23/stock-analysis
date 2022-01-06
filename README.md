@@ -9,7 +9,7 @@ The purpose of this project is to analysis many different stocks' volume and ret
 ![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%20Picture%20of%20Returns%202022-01-06%20075403.png)
 
 ## 2018 Results
-![image_name](https://github.com/jessicameyer23/Challenge-1/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2018%20Picture%20of%20Returns%202022-01-06%20075516.png)
 
 
 ## Summary
@@ -19,4 +19,7 @@ The purpose of this project is to analysis many different stocks' volume and ret
 2.
 3.
   ## Advantages and Disadvantages of my Original and Refactored VBA script:
-1.
+2017 New run time
+![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2018%20Picture%20of%20Returns%202022-01-06%20075516.png)
+2017 New Run time
+![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2018%20Picture%20of%20Returns%202022-01-06%20075516.png)
