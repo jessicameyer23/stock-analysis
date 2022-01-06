@@ -34,9 +34,11 @@ Overall, before moving foward with any investment, I would recommend that we ana
 
 2017 New run time
 The new refactored analysis reduced my 2017 run time from .585 seconds (See "All Stocks Analysis" tab for related screenshot on run time in "VBA Challenge xlms") to .445 seconds (see below).  The refactoring reduced my run time by over .1 second, which could be very significant for large amounts of data analysis.
+
 ![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%202022-01-05%20173432.png)
 
 
 2018 New Run time
 The new refactored analysis reduced my 2018 run time from .57 seconds (See "All Stocks Analysis" tab for related screenshot on run time in "VBA Challenge xlms") to .48 seconds (see below).  The refactoring reduced my run time by almost .1 second, which could be very significant for large amounts of data analysis.
+
 ![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2018%202022-01-05%20173305.png)
