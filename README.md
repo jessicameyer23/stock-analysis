@@ -5,7 +5,7 @@ The purpose of this project is to analysis many different stocks' volume and ret
 
 ### Results
 ## 2017 Results
-In 2017, DQ stands out as a strong performer, with a return of 199%, however, the total daily volume was much smaller than the other stocks, which is a red flag.  I would recommend that we analyze the DQ's performance over a longer period of time and continue to compare it to other stocks.  Also, in genearl, all stocks analyzed had favorable results, but there are large differences in returns among the different companies.
+In 2017, DQ stands out as a strong performer, with a return of 199%, however, the total daily volume was much smaller than the other stocks, which is a red flag.  I would recommend that we analyze the DQ's performance over a longer period of time and continue to compare it to other stocks.  Also, in general, all stocks analyzed had favorable results, but there are large differences in returns among the different companies.
 
 ![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%20Picture%20of%20Returns%202022-01-06%20075403.png)
 
