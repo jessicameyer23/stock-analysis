@@ -20,8 +20,10 @@ The purpose of this project is to analysis many different stocks' volume and ret
 3.
   ## Advantages and Disadvantages of my Original and Refactored VBA script:
 2017 New run time
+
 ![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%202022-01-05%20173432.png)
 
 
 2018 New Run time
+
 ![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2018%202022-01-05%20173305.png)
