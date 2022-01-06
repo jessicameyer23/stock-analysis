@@ -6,7 +6,7 @@ The purpose of this project is to analysis many different stocks' volume and ret
 ### Results
 ## 2017 Results
 
-![image_name](https://github.com/jessicameyer23/Challenge-1/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![image_name](https://github.com/jessicameyer23/stock-analysis/blob/main/Resources/2017%20Picture%20of%20Returns%202022-01-06%20075403.png)
 
 ## 2018 Results
 ![image_name](https://github.com/jessicameyer23/Challenge-1/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
