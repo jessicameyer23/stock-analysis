@@ -28,7 +28,7 @@ Overall, before moving foward with any investment, I would recommend that we ana
 4. Another disadvantage is that it requires you to retest the functionality and adds more time.
 
   ## Advantages and Disadvantages of my Original and Refactored VBA script:
-1.  For this particular analysis, the original code (which I have incluced in my script as "Refractored Original" for comparison) looped through all of the data and then returned information only for the specific ticker it was looking for and then continued to repeat that analysis for each ticker.  When I refactored my code (See "Refactored" code), the analysis instead returned information for each ticker as it was looping through the information.  This is more efficient and enabled me to reduce my run time.
+1.  For this particular analysis, the original code (which I have included in my script as "Refractored Original" for comparison) looped through all of the data and then returned information only for the specific ticker it was looking for and then continued to repeat that analysis for each ticker.  When I refactored my code (See "Refactored" code), the analysis instead returned information for each ticker as it was looping through the information.  This is more efficient and enabled me to reduce my run time.
 2.  Refactoring the code also decreases the likelhood for errors in the coding.  
 3.  Refactoring the code however, did increase my (programmer) time spent on refactoring.  Due to my lack of experience, it took a lot of trial and error time, so though it made the actual code more efficient, it took more time on the front end.  
 
